@@ -15,7 +15,7 @@ function Footer(){
 
             <div className='w-[60%]  m-auto flex gap-10  justify-center'>
                
-              <div className='flex gap-4 text-white text-[15px] font-thin '><p className='cursor-pointer hover:text-black'>Confira Nossas Vagas</p><p className='cursor-pointer hover:text-black'>Cotação do Dólar</p><p className='cursor-pointer hover:text-black'>Tarifas</p><p>Segurança</p><p className='cursor-pointer hover:text-black'>Privacidade de Dados</p><p className='cursor-pointer hover:text-black'>Política de Privacidade</p><p className='cursor-pointer hover:text-black'>Canal de Ética</p> </div>
+              <div className='flex gap-4 text-white text-[15px] font-thin '><p className='cursor-pointer hover:text-black'>Confira Nossas Vagas</p><p className='cursor-pointer hover:text-black'>Cotação do Dólar</p><p className='cursor-pointer hover:text-black'>Tarifas</p><p className='cursor-pointer hover:text-black'>Segurança</p><p className='cursor-pointer hover:text-black'>Privacidade de Dados</p><p className='cursor-pointer hover:text-black'>Política de Privacidade</p><p className='cursor-pointer hover:text-black'>Canal de Ética</p> </div>
                 
             </div>
 
